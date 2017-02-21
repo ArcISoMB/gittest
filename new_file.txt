@@ -1,3 +1,5 @@
 some text
 
 new change
+
+change in master branch
